@@ -4513,7 +4513,7 @@ public final class Settings {
          * @hide
          */
         public static final String DEVICE_GESTURE_FEEDBACK_ENABLED = "device_gesture_feedback_enabled";
-        
+
         /**
          * Enable Off-Screen Gesture Haptic feedback
          * KeyHandler
@@ -4526,6 +4526,12 @@ public final class Settings {
          * @hide
          */
         public static final String QS_SHOW_BRIGHTNESS_ICON = "qs_show_brightness_icon";
+
+        /**
+         * Default animation
+         * @hide
+         */
+        public static final String SYSTEM_DEFAULT_ANIMATION = "system_default_animation";
 
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
