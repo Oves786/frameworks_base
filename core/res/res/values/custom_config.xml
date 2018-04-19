@@ -145,4 +145,8 @@
     <!-- Name of that key handler class -->
     <string name="config_deviceKeyHandlerClass" translatable="false"></string>
 
+    <!-- Whether device wakes up with home -->
+    <bool name="config_homeWakeup">false</bool>
+    <integer name="config_homeWakeupIgnoreKeyCode">0</integer>
+
 </resources>
